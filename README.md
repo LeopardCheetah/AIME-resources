@@ -14,6 +14,7 @@ Take note that the resources listed are not complete as I have discarded resourc
 
 
 ## Resources for preparation
+- Past AIME/AMC 10/12 Problems
 - David Altizo's [Problem Sets, Handouts, 100 Geometry Problems](https://davidaltizio.web.illinois.edu/mathlinks.html)
 - [Dylan Yu's handouts](https://yu-dylan.github.io/handouts/)
 - [Euclid's Orchard](https://yu-dylan.github.io/euclid-orchard/) - features a lot of NT/Algebra handouts for AIME/USAMO level competitors
