@@ -1,2 +1,7 @@
-# AIME-resources
-a collection of items for me to practice for the upcoming AIME
+# AIME Resources
+
+Take note that the resources listed are not complete as I have discarded resources that I have already used.
+
+---
+
+
