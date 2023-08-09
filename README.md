@@ -21,6 +21,8 @@ Take note that the resources listed are not complete as I have discarded resourc
 - [Olympiad NT](https://s3.amazonaws.com/aops-cdn.artofproblemsolving.com/resources/articles/olympiad-number-theory.pdf) - some of the content might be too hard
 - Expii - It looks like it has some good content but I've never tried it/looked at it before
 - [Isinj](https://www.isinj.com/mt-aime/) - has some great (but old) content for preparation, has a lot of books on it. Also contains all the past AIMEs (altho that can be found thru AoPS)
+- https://artofproblemsolving.com/wiki/index.php/Resources_for_mathematics_competitions
+- https://artofproblemsolving.com/wiki/index.php/How_should_I_prepare%3F
 
 
 
@@ -167,6 +169,9 @@ Take note that the resources listed are not complete as I have discarded resourc
 ## Other
 - Bogtro's [Learn how to learn](http://mathcountsnotes.blogspot.com/2014/06/learn-how-to-learn-by-bogtro-from-aops.html)
 - [http://ericshen.net/exams/](http://ericshen.net/exams/)
+- [Bogtro - Compilation of useful posts](https://artofproblemsolving.com/community/c87553h1098130_compilation_of_useful_posts)
+- https://numbertheoryguy.com/
+- http://ericshen.net/index.html
 
 
 
