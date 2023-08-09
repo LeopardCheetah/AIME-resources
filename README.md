@@ -9,12 +9,14 @@ Take note that the resources listed are not complete as I have discarded resourc
 
 - Look at [Dylan's guide](https://yu-dylan.github.io/files/handouts/M2-aime.pdf) towards preparation/time management
 - [BOGTRO AIME Study Guide](https://www.dropbox.com/s/icds9u5yo0xypyf/AIMElist.pdf?dl=0) - a list of formulas and other things to know for the AIME
-
+- [AMC 12 Study Guide](https://www.tempeunion.org/cms/lib/AZ01901094/Centricity/Domain/520/AMC%2012%20Study%20Guide.pdf)
+- [AMC Bible](https://docs.google.com/document/d/1Hpzz364N6RkEuomutUrkOQmxp4UA3HrIzf_QW5Nmz_4/edit) - might be a little outdated
 
 
 
 ## Resources for preparation
 - Past AIME/AMC 10/12 Problems
+- Handouts (Berkely, Stanford, v_Enhance/Evan Chen, Yufei Zhao, etc.)
 - David Altizo's [Problem Sets, Handouts, 100 Geometry Problems](https://davidaltizio.web.illinois.edu/mathlinks.html)
 - [Dylan Yu's handouts](https://yu-dylan.github.io/handouts/)
 - [Euclid's Orchard](https://yu-dylan.github.io/euclid-orchard/) - features a lot of NT/Algebra handouts for AIME/USAMO level competitors
@@ -24,13 +26,22 @@ Take note that the resources listed are not complete as I have discarded resourc
 - [Isinj](https://www.isinj.com/mt-aime/) - has some great (but old) content for preparation, has a lot of books on it. Also contains all the past AIMEs (altho that can be found thru AoPS)
 - https://artofproblemsolving.com/wiki/index.php/Resources_for_mathematics_competitions
 - https://artofproblemsolving.com/wiki/index.php/How_should_I_prepare%3F
-
+- [A basic AM-GM handout](https://artofproblemsolving.com/community/c1967976h1598542)
+- [Coord bash handout](https://cdn.artofproblemsolving.com/attachments/1/1/0d3773914be6cf424c0afc03420fe5e410d1bb.pdf)
+- [Another NT handout](https://artofproblemsolving.com/articles/files/SatoNT.pdf) - covers about Oly level NT
+- [Another NT handout 2](https://cdn.artofproblemsolving.com/attachments/f/4/add1089ae32b0ca5e0f1117cbf3937cee1c579.pdf)
+- [Modular Arithmetic Book](https://aryansh-s.github.io/The_Art_of_Modular_Arithmetic.pdf)
 
 
 ## Problem Sets
+- HMMT, SUMAC, BMT, CHMMC, ARML, etc.
+- [3d Geo Problem Set](https://docs.google.com/document/d/1fXWrV3uynkLvdqsU9vPSt_4xoQ5sP5uw3geLhMXsynU/edit)
+- [AIME Problem List](https://drive.google.com/file/d/0B8JbOaFM5Xo_bnc2NUd0dDFLY1U/view?resourcekey=0-1tVMnKTLCkFlKuyljA_VyA) - contains most problems from past AIMEs
 - [AOPS USA Contests](https://artofproblemsolving.com/community/c3158_usa_contests) - just a dump of a lot of problems
 - [Alphastar](https://alphastar.academy/aime/) - They offer a free AIME/AMC test each year, which is at least worth checking out
 - https://mathcircle.berkeley.edu/sites/default/files/archivedocs/2010_2011/lectures/1011lecturespdf/AIMEprac.pdf - An AIME Preparation handout (8 problems)
+- [ARML Practice Problems](https://sites.google.com/site/statemathcontest/arml/practiceproblems) - contains a variety of everything but not much combi
+- [Modular Arithmetic Gems](https://cdn.artofproblemsolving.com/attachments/3/5/5bacb5d93b0427d00aba2b95be25ece1e12e08.pdf)
 - [USAMTS](https://usamts.org/) - not a problem set, but contains a lot of problems nevertheless. Problems require proof, and are not meant to be solved under time pressure
 - [AIME Practice Set 2015](https://davidaltizio.web.illinois.edu/Compilation_of_AIME_like_problems.pdf) - David Altizo
 
