@@ -31,6 +31,7 @@ Take note that the resources listed are not complete as I have discarded resourc
 - [Another NT handout](https://artofproblemsolving.com/articles/files/SatoNT.pdf) - covers about Oly level NT
 - [Another NT handout 2](https://cdn.artofproblemsolving.com/attachments/f/4/add1089ae32b0ca5e0f1117cbf3937cee1c579.pdf)
 - [Modular Arithmetic Book](https://aryansh-s.github.io/The_Art_of_Modular_Arithmetic.pdf)
+- https://alexanderrem.weebly.com/math-competitions.html
 
 
 ## Problem Sets

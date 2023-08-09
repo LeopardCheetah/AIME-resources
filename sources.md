@@ -25,6 +25,7 @@
 - https://numbertheoryguy.com/competitions/
 - https://www.geometryexplorer.xyz/pdfs/Dennis_s_Mock_AIME.pdf
 - https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYy80LzBkNzcyN2M0ZmJkYjhiMTAxZjA1NGZjZWIyYzBjZmE4ZTJmNmVk&rn=VGhvbWFzTWlsZG9yZkFpbWVzLnBkZg==
+- https://artofproblemsolving.com/community/c5h1578191_handout_compilation
 
 For markdown :P
 - https://www.markdownguide.org/cheat-sheet
